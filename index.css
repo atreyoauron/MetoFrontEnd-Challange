@@ -1,0 +1,34 @@
+ p{
+  
+text-align:center;
+ color:blue;
+
+ 
+ }
+ a:hover{
+   
+  color:red; 
+  cursor:pointer;
+   
+ }
+ 
+  body{
+
+
+     background-color:#33435e;
+    
+  }
+  
+ div{
+
+ display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+   
+   
+ }
+
+   
